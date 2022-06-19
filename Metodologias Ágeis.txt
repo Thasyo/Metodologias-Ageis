@@ -1,0 +1,92 @@
+METODOLOGIAS ÁGEIS (HIRING CODERS)
+
+-> MODELO TRADICIONAL x MODELO AGILE
+
+  - MODELO AGILE:
+	VANTAGENS: entregas contínuas; entregas com valor; aprendizado contínuo; feedback constante de clientes; flexibilidades na revisão de prioridades; O líder é um facilitador, o qual organiza
+		   o projeto; mas há comunicação entre o cliente e a equipede desenvolvimento.
+  
+  - MODELO TRADICIONAL: 
+	MODELO CASCATA (antigo): pouquíssima participação do clientes no decorrer do projeto; poucos feedbacks, entregas sem valor; forte indício do resultado final não agradar ao cliente; O gestor/chefe
+			toma conta de tudo e não a comunicação não existe entre a equipe e o cliente; gerando conflitos no projeto sem necessidade.
+
+
+-> 4 CONCEITOS DE "MANIFESTOS ÁGEIS":
+	
+	1- INDIVÍDUOS E INTERAÇÕES: mais que pessoas e ferramentas - comunicação e relacionamento entre a equipe são fundamentais.
+	2- SOFTWARE EM FUNCIONAMENTO: mais que documentação abrangente - A entrega constante de valor ao cliente é fundamental para um bom desenvolvimento do projeto do inicio até o final.
+	3- COLABORAÇÃO COM O CLIENTE: mais que negociação de contratos - um relacionamento saudável entre equipe e cliente é totalmente necessário para a aplicação do modelo ágil em um projeto.
+	4- RESPONDER A MUDANÇAS: mais que seguir um plano - os feedbacks do cliente no decorrer do projeto são fundamentais para uma entrega de valor e satisfação do cliente.
+
+-> PRINCÍPIOS ÁGEIS:
+
+	1- SATISFAÇÃO DO CLIENTE: a prioridade está em satisfazer as necessidades do cliente; fazendo entregas de valor e ouvindo suas necessidades.
+	2- MUDANÇAS REPENTINAS: mudanças no projeto pelo cliente devem ser bem-vindas na equipe, mesmo em situações tardias no desenvolvimento.
+	3- PRAZOS CURTOS: entregas de softwares em funcionamento de valor para o cliente de forma constante.
+	4- TRABALHO EM CONJUNTO: a equipe toda deve trabalhar em conjunto durante todo o curso do projeto.
+	5- AMBIENTAÇÃO E SUPORTE: para uma equipe motivada, é necessário um ambiente e suportes à altura.
+	6- FALAR NA CARA: a melhor forma de transmitir as informações tanto externas como internas, para um time de desenvolvimento é por meio de uma conversa cara a cara.
+	7- FUNCIONALIDADE: é necessário manter o software sempre funcional.
+	8- AMBIENTE DE SUSTENTABILIDADE: Processos ágeis promovem um ambiente sustentável, com patrocinadores, desenvolvedores e usuários sendo capazes de manter passos constantes.
+	9- PADRÕES ALTOS DE TECNOLOGIA E DESIGN: A contínua atenção à excelência técnica e ao bom design aumenta a agilidade.
+	10- SIMPLICIDADE: Fazer algo simples é dominar a arte de maximizar a quantidade de trabalho que não precisou ser feito.
+	11- AUTONOMIA: um time ágil é um time auto-organizável.
+	12- REFLEXÕES E OTIMIZAÇÕES: Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo.
+
+-> AGILIDADE: é responder a mudanças sem traumas; entregando mais rápido e com valor; recebendo os feedbacks com responsabilidade e se adaptando com assertividade.
+
+
+
+-> O QUE É SCRUM: O  framework Scrum é inspirado no Rugby (ESPORTE), o trabalho sempre é feito em equipe com planejamento de tarefas e entregas. Temos algumas nomenclaturas específicas dessa 
+		  metodologia e vamos ver o significado de cada uma delas.
+
+-> RITUAS E CERIMÔNIA
+
+	- SPRINT PLANNING: é uma reunião em que o time decide quais são as demandas necessárias para a próxima sprint com base no PRODUCT BACKLOG; 
+			   com isso, o time quebra essas demandas em pequenas tarefas e faz uma lista de priorização entre elas, e essa lista é chamada de SPRINT BACKLOG.
+
+	- SPRINT: é o período de execução das tarefas listadas, normalmente duram enrte 1 a 4 semanas, o recomendado é que as sprints tenham a mesma duração, 
+		o time deve focar na SPRINT BACKLOG, definido no PLANNING.
+
+	- DAILY MEETING: é uma reunião que ocorre todos os dias, que o objetivo é alinhar as tarefas do dia do time; deve no máximo 15 minutos. Nessa reunião, cada 
+		                cada colaborador deve responder a 3 perguntas. São elas:
+			
+			1- O QUE EU FIZ DESDE A ÚLTIMA DAILY;
+			2- O QUE EU VOU FAZER ATÉ A PRÓXIMA DAILY;
+			3- TENHO ALGUM IMPEDITIVO;
+			
+			p.s: NÃO É BATE PAPO E NÃO É JULGAMENTO TAMBÉM.
+
+	- SPRINT REVIEW: é uma reunião feita no final da sprint para apresentação dos resultados para o P.O (Product Owner). validar e dar feedback para a equipe.
+
+	- RETROSPECTIVA: também conhecida como RETRÔ; é onde o time vai avaliar a última SPRINT feita, vendo os acertos, os erros e as possíveis melhorias. O resultado
+		                 dessa retrospectiva culmina em um PLANO DE AÇÃO de melhorias que devem ser implementadas na próxima SPRINT.
+			ESSA É UMA DAS MAIORES VANTAGENS DE METODOLOGIAS ÁGEIS, onde a otimização do projeto e o desenvolvimento da equipe é contínua e não feita somente no início e no fim do projeto.
+		                 
+
+-> ARTEFATOS: projetado para maximizar a transparência das informações.
+
+	- PRODUCT BACKLOG: é uma lista de tarefas que serão necessárias para o desenvolvimento do produto. A criação, ordenanção por prioridade e o gerenciamento do PRODUCT BACKLOG é responsabiliade
+			      do PO (product owner).
+
+	- SPRINT BACKLOG: Lista de itens selecionados do Product Backlog para a Sprint. A definição dessa lista é feita somente na Sprint Planning e não pode ser  alterada durante a execução da Sprint.
+
+	- INCREMENTO: resultado de uma entrega de valor e funcional para o cliente. Como entregamos algo sempre de valor para o cliente, haverá sempre algo a ser incrementado.
+
+
+-> KANBAN
+
+	- O sistema Kanban foi desenvolvido por Taiichi Ohno, engenheiro industrial e empresário, para a Toyota no Japão, em 1940. O intuito era criar um sistema de planejamento simples, a fim de 
+	controlar e gerenciar o trabalho e o estoque em todas as fases da produção de forma otimizada. Basicamente, ele começou a usar o sistema para movimentar e fornecer itens sem que houvesse o 
+	abastecimento de materiais sem solicitação. Os cartões de informação eram utilizados para controlar a produção de acordo com a demanda.
+	
+	- COMO USÁ-LO?
+	
+		- existem sites que você pode utilizar o método KANBAN; mas também você pode fazer no modo tradicional.
+		- é um sistema puxado;
+	
+		- PARA USÁ-LO, FAÇA O SEGUINTE ESQUEMA:
+
+			- TO DO: são as tarefas que precisa fazer;
+			- DOING: são as tarefas que você está fazendo, produzindo;
+			- DONE: são as tarefas que concluiu;
